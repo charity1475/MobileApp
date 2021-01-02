@@ -20,23 +20,6 @@
 
 ### ✨ [Demo](http://www.alkovintages.com/)
 
-## Prerequisites
-
-- npm >=5.5.0
-- node >=9.3.0
-
-## Install
-
-```sh
-npm start
-```
-
-## Run tests
-
-```sh
-npm run test
-```
-
 ## Author
 
 👤 **Charity ft Twallo**
@@ -58,4 +41,3 @@ Copyright © 2020 [Charity ft Twallo](https://github.com/charity1475).<br />
 This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
